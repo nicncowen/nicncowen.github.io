@@ -1,0 +1,39 @@
+.heading {
+	font-family: 'Delius Unicase', cursive;
+	text-align: center;
+	font-size: 500%;
+}
+.padding1 {
+	margin: 50px;
+	padding: none;
+}
+.padding2 {
+	margin: 0px;
+	text-align: center;
+	padding: 20px;
+}
+.img {
+	border-radius: 50%;
+}
+.name {
+	font-size: 200%;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+	background-color: #f2f2f2 ;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.hover:hover {
+	text-decoration: none;
+	color: black;
+	background-color: #f2f2f2;
+	border-radius: 15px;
+	padding-top: 20px;
+}
+.hover {
+	padding-top: 20px;
+}
